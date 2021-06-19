@@ -23,7 +23,7 @@ hardcoded. Our hardware accelerator has a resource requirement
 of 1764 LUTs, 1553 FFs and 6 (36 kB) BRAMs, adding up
 to a total of 570 slices. It is able to calculate the polynomial
 multiplication for ntruhps2048509 and ntruhps4096821 in 94 µs
-and 201 µs respectively, whereas in sof
+and 201 µs respectively, whereas in software this takes 780 µs and 2010 µs on a powerful processor.
 
 ### Instructions
 

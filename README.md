@@ -1,7 +1,7 @@
 # NTRU_NTT_HW
 
 This repo contains the source code for my thesis work done for my masters degree at ESAT, KULeuven.  
-The thesis text can be found here: LINK TBA.
+The thesis text can be found here: https://www.esat.kuleuven.be/cosic/publications/thesis-412.pdf.
 
 ### Abstract
 In this work a hardware accelerator for the polynomial multiplication of NTRU is proposed. The proposed design

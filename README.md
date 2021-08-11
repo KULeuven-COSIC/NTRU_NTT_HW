@@ -1,7 +1,7 @@
 # NTRU_NTT_HW
 
 This repo contains the source code for my thesis work done for my masters degree at ESAT, KULeuven.  
-The thesis text can be found here: LINK TBA.
+The thesis text can be found here: https://www.esat.kuleuven.be/cosic/publications/thesis-412.pdf.
 
 ### Abstract
 In this work a hardware accelerator for the polynomial multiplication of NTRU is proposed. The proposed design
@@ -23,7 +23,7 @@ hardcoded. Our hardware accelerator has a resource requirement
 of 1764 LUTs, 1553 FFs and 6 (36 kB) BRAMs, adding up
 to a total of 570 slices. It is able to calculate the polynomial
 multiplication for ntruhps2048509 and ntruhps4096821 in 94 µs
-and 201 µs respectively, whereas in sof
+and 201 µs respectively, whereas in software this takes 780 µs and 2010 µs on a powerful processor.
 
 ### Instructions
 
